@@ -1,4 +1,4 @@
-"# Bot para twitter"
+# Bot para twitter
 
 En realidad me gustaría añadirle más funcionalidades pero por ahora estoy explorando con la API para ver que más cosas puedo implementarle
 
